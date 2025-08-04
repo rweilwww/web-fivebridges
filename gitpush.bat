@@ -3,8 +3,8 @@ cd /inetpub/wwwroot/w/fivebridges
 
 
 git add .
-git commit -m "from indesign 2024-12-23 22:51" --no-edit
-git push https://github.com/rweil55/web-fivebridges main
+git commit -m "from indesign 2025-08-04 14:32" --no-edit
+git push --force --set-upstream origin main
 
 rem wait for one minute to allow git hub to get its act together
 timeout 60
